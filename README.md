@@ -36,9 +36,9 @@ yarn or yarn install
 4. Jalankan development server:
 
 ```bash
-npm run dev
+npm run start
 # or
-yarn dev
+yarn start
 ```
 
 5. Buka di [http://localhost:3000](http://localhost:3000), dan ya Anda sekarang berhasil menjalankannya
